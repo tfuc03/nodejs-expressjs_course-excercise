@@ -1,0 +1,1 @@
+Result: Hello guys, this is first text., Hello guys, this is second text.
